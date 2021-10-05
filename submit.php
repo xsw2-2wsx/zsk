@@ -7,6 +7,6 @@
     <title>Wynik</title>
 </head>
 <body>
-    <span>Ilosc osob: <?php echo $_POST['amount'] ?></span>
+    
 </body>
 </html>
